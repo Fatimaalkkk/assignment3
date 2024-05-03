@@ -10,7 +10,7 @@ from event import Event
 from guest import Guest
 from supplier import Supplier
 from binary_file_handler import FileHandler
-
+ 
 # Defining a class called ManagementGUI to create the GUI for the event management system.
 class ManagementGUI:
     # Constructor method to initialize the GUI.
