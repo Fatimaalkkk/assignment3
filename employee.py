@@ -1,6 +1,6 @@
 # Importing the FileHandler module to handle binary file operations.
 from binary_file_handler import FileHandler
-
+ 
 # Defining a class called Employee to manage employee data.
 class Employee:
     # Constructor method to initialize employee attributes.
